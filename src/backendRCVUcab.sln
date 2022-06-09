@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backendRCVUcab", "backendRCVUcab\backendRCVUcab.csproj", "{1ED523BE-F541-4824-BF2B-C5F50A853619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCVUcab", "..\..\..\RCVUcab\src\RCVUcab\RCVUcab.csproj", "{24A68399-EFFA-4057-91D9-62824D21B063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED523BE-F541-4824-BF2B-C5F50A853619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED523BE-F541-4824-BF2B-C5F50A853619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED523BE-F541-4824-BF2B-C5F50A853619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED523BE-F541-4824-BF2B-C5F50A853619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A68399-EFFA-4057-91D9-62824D21B063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A68399-EFFA-4057-91D9-62824D21B063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A68399-EFFA-4057-91D9-62824D21B063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A68399-EFFA-4057-91D9-62824D21B063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
